@@ -1,6 +1,6 @@
 Latest Version
 --------------
-##### _January 17, 2021_ - [v3.0.2](https://github.com/devtodev-analytics/Unity-sdk-3.0/releases/latest)
+##### _April 11, 2022_ - [v3.1.1](https://github.com/devtodev-analytics/Unity-sdk-3.0/releases/latest)
 
 Getting Started
 ---------------
@@ -9,3 +9,7 @@ Full description of the integration process of devtodev SDK and all the accessib
 Changelog
 ---------
 See [releases](https://github.com/devtodev-analytics/Unity-sdk-3.0/releases).
+
+Warning
+-------
+This package does not support WebGL. WebGL support will be added in the next releases.
