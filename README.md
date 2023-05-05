@@ -1,6 +1,6 @@
 Latest Version
 --------------
-##### _April 24, 2023_ - [v3.6.0](https://github.com/devtodev-analytics/Unity-sdk-3.0/releases/latest)
+##### _May 5, 2023_ - [v3.6.1](https://github.com/devtodev-analytics/Unity-sdk-3.0/releases/latest)
 
 Getting Started
 ---------------
