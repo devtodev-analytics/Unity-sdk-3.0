@@ -1,6 +1,6 @@
-## Latest Version
+## Fixed Code Sign for ios
 
-##### _March 28 2025_ - [v3.9.0](https://github.com/devtodev-analytics/Unity-sdk-3.0/releases/latest)
+##### _March 28 2025_
 
 ## Getting Started
 
