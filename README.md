@@ -1,6 +1,8 @@
-## Fixed Code Sign for ios
+## Add support 16 KB page sizes for Android
+## Removed referral not connected exception for Android
+## Fixed AntiCheat for Android
 
-##### _March 28 2025_
+##### _August 8 2025_
 
 ## Getting Started
 
