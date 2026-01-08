@@ -1,8 +1,5 @@
-## Add support 16 KB page sizes for Android
-## Removed referral not connected exception for Android
-## Fixed AntiCheat for Android
 
-##### _August 8 2025_
+##### _January 8 2026_
 
 ## Getting Started
 
